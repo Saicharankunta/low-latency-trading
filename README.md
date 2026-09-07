@@ -134,20 +134,3 @@ In order to run the program, the following dependencies need to be installed:-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contributors
-
-Gitanshu Arora ([GitanshuA](https://github.com/GitanshuA))
-
-Advait Jain ([adv8j](https://github.com/adv8j))
-
-Project Link: [https://github.com/GitanshuA/low-latency-trading](https://github.com/GitanshuA/low-latency-trading)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[cpp_img]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
-[cpp_url]: https://isocpp.org/
-[mysql_img]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[mysql_url]: https://www.mysql.com/
-[js_img]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[js_url]: https://developer.mozilla.org/en/JavaScript
