@@ -1,0 +1,13 @@
+# Compiled binaries
+*.out
+backend
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Build files
+*.o
+*.obj
