@@ -11,3 +11,10 @@ backend
 # Build files
 *.o
 *.obj
+
+# Editor
+.vscode/
+
+# Compiled binaries
+*.out
+backend
