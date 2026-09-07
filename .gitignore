@@ -18,3 +18,13 @@ backend
 # Compiled binaries
 *.out
 backend
+
+# Editor
+.vscode/
+
+# Compiled binaries
+*.out
+backend
+
+# OS
+.DS_Store
